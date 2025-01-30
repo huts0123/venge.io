@@ -11,7 +11,7 @@ import pyautogui  # To take screenshots and close the tab
 import platform  # To check the operating system
 
 # Hardcoded Discord webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1328280421162684497/pSRs8i9GAq1cimOdhyHO9m_VS41_140SQvOwhvscaG9t9yeIL1T5n5mU-m1wUVnh-tMC'
+WEBHOOK_URL = #replace this text with ur discord webhook.
 
 def extract_lines_with_keyword(input_file, output_file, keyword):
     try:
